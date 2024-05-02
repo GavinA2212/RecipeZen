@@ -75,7 +75,7 @@ const Footer = styled.div`
   text-align: center;
   color: ${COLORS.white};
 `;
-
+//a
 const Home = () => (
   <RecipeProvider>
     <Head>
