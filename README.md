@@ -1,4 +1,4 @@
-Web based recipe finder based off ingredients listed, built using Nextjs and React
+Web based recipe finder based off ingredients listed
 
 uses the Edamam Recipe RESTful API to retrieve food data
 
